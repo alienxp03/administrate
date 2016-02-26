@@ -21,3 +21,4 @@ module Administrate
     Engine.config.assets.precompile << /\.(?:svg)\z/
   end
 end
+
