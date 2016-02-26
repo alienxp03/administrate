@@ -11,6 +11,8 @@ gem "pg"
 gem "redcarpet"
 gem "unicorn"
 
+gem "datetime_picker_rails", github: "alienxp03/datetime_picker_rails"
+
 group :development do
   gem "web-console", ">= 2.1.3"
 end
